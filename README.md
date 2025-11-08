@@ -1,1 +1,1 @@
-# Visual-Reinforcement-Learning-Visualizer
+# Reinforcement-Learning-Visualizer
